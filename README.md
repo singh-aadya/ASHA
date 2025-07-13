@@ -12,7 +12,7 @@
 - 🗃️ Beneficiary health record management  
 - 🗺️ Route optimization for field visits  
 
-Built with simplicity and scalability in mind, AIsha bridges the tech gap in grassroots healthcare systems.
+Built with simplicity and scalability in mind, Asha bridges the tech gap in grassroots healthcare systems.
 
 ---
 
