@@ -1,4 +1,4 @@
-# AIsha – ASHA/Anganwadi Worker Assistant
+# Asha – ASHA/Anganwadi Worker Assistant
 *Empowering frontline healthcare with intelligent support*
 
 ---
